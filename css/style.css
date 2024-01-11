@@ -162,7 +162,9 @@ img {
      max-width: 100%;
      height: auto;
 }
-
+.footerimage{
+     height: 50px;
+}
  :focus {
      outline: 0;
 }
@@ -448,7 +450,7 @@ button {
      background: #f2f2f2;
      padding-bottom: 80px;
      padding-top: 80px;
-     margin-top: 80px;
+     /* margin-top: 80px; */
 }
 
 .couple .titlepage {
@@ -493,7 +495,8 @@ button {
 }
 
 .doi figure img {
-     max-width: 100%;
+     max-width: 50%;
+     max-height: 50%;
 }
 
 
@@ -714,7 +717,7 @@ label {
 
 .border_bo1 {
      border-top: #606060 solid 1px;
-     padding-top: 80px;
+     /* padding-top: 80px; */
 }
 
 .logof {
