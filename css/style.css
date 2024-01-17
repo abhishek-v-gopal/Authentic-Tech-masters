@@ -995,6 +995,13 @@ ul.social_icon li a i:hover {
      margin-bottom: 10px;
 
 }
+.kjcmt{
+     position: absolute;
+     top: 37px;
+     right: 47px;
+     font-size: 18px;
+     height: 80px;   
+}
 
 .inner_page .full_bg {
 height: 176px;
