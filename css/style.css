@@ -360,6 +360,7 @@ button {
      line-height: 55px;
      font-weight: bold;
      padding: 0;
+     border-radius: 10px;
      display: inline-block;
 }
 
@@ -1000,7 +1001,7 @@ ul.social_icon li a i:hover {
      top: 37px;
      right: 47px;
      font-size: 18px;
-     height: 80px;   
+     height: 47px;   
 }
 
 .inner_page .full_bg {
