@@ -343,20 +343,12 @@ button {
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
-     height: 100vh;
      background-position:fixed;  */
-     background: url("../images/hpg.png");
-     /* background: cover; */
-     background-size:contain;
-     background-repeat: no-repeat;
-     background-position:center;
-
-
-     
-
-     /* position: relative; */
-     /* padding: 80px 0; */
-
+     /* background: url("../images/hpg.png") center center; */
+     background-image: linear-gradient(to right,#181257,#20258D,#114084,#322694);
+     background-size: cover;
+     position: relative;
+     height: 100vh;
 }
 
 
@@ -419,7 +411,8 @@ button {
 /** about section **/
 
 .about {
-     background: url(../images/aboutbg.png);
+     /* background: url(../images/aboutbg.png); */
+     background-image:#ffffff;
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
